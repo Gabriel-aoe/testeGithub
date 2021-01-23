@@ -10,12 +10,12 @@ namespace testeGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World :)");
             Console.WriteLine("Hello Terminal Git");
             int x = 3;
             int y = 2;
             int sum = x + y;
             Console.WriteLine("Sum: " + sum);
+            Console.WriteLine("Hello user :)");
             Console.ReadLine();
         }
     }
